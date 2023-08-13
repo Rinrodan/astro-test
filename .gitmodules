@@ -1,0 +1,3 @@
+[submodule "astroship"]
+	path = astroship
+	url = https://github.com/surjithctly/astroship.git
